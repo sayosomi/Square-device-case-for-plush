@@ -11,6 +11,7 @@
 
 - ぬいぐるみ：自作ずんだもんぬいぐるみ [^1]
 - デバイス：M5Stack Core2 [^2]
+
 <img src="image/plush1.jpg" alt="ケースを着用したぬいぐるみ（正面）" width="400px"> <img src="image/plush2.jpg" alt="ケースを着用したぬいぐるみ（横）" width="400px">
 <img src="image/plush3.jpg" alt="ケースを着用したぬいぐるみ（背面）" width="400px"> <img src="image/case.jpg" alt="ケース本体" width="400px">  
 - ケース本体にデバイスを差し込み、背面を面ファスナーで留めます。
